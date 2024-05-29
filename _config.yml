@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @ EPFL"
   location         : "Lausanne, VD, Switzerland"
-  employer         : "École Polytechnique Fédérale de Lausanne"
+  employer         : "EPFL"
   uri              : # URL
   email            : "shuo.wen@epfl.ch" 
 
@@ -253,14 +253,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
