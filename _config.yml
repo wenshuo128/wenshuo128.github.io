@@ -21,7 +21,7 @@ repository               : "wenshuo128/wenshuo128.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Shuo Wen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @ EPFL"
