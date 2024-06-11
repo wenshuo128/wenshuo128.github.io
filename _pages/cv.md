@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](https://github.com/wenshuo128/wenshuo128.github.io/blob/master/files/Shuo_Wen_EDIC_resume.pdf)
+Here is my [CV](https://github.com/wenshuo128/wenshuo128.github.io/blob/master/files/Shuo_Wen_EDIC_resume.pdf).
