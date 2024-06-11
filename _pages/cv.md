@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://github.com/wenshuo128/wenshuo128.github.io/blob/master/files/Shuo_Wen_EDIC_resume.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
