@@ -1,7 +1,7 @@
 ---
 title: "CS-502: Deep Learning in Biomedicine"
 collection: teaching
-type: "Workshop"
+type: "Master course"
 venue: "EPFL"
 ---
 
