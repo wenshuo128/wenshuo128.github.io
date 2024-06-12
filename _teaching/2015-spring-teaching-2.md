@@ -5,4 +5,4 @@ type: "Master course"
 venue: "EPFL"
 ---
 
-Head Teaching Assistant. Received the EPFL 2023 best TA award.
+Head Teaching Assistant. Received the EPFL 2023 Best TA award.
