@@ -13,5 +13,6 @@ Prior to my PhD, I received my master's degree from EPFL and my bachelor's degre
 
 You can reach me at shuo.wen@epfl.ch.
 
-[News]
+*News*
+
 [Dec 25]	Awarded Swiss AI PhD Fellowship.
