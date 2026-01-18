@@ -12,3 +12,6 @@ Hello, I am Shuo Wen, a second-year computer science PhD student in MLBio lab at
 Prior to my PhD, I received my master's degree from EPFL and my bachelor's degree from Shanghai Jiao Tong University.
 
 You can reach me at shuo.wen@epfl.ch.
+
+[News]
+[Dec 25]	Awarded Swiss AI PhD Fellowship.
